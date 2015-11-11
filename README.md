@@ -1,3 +1,3 @@
-# iOS-Swift-Troubleshooting-UI-To-Code-Edward
+# iOS-Swift-Troubleshooting-UI-To-Code-Chen-Wei-Ming
 
-![simulator screen shot nov 3 2015 11 35 11 am](https://cloud.githubusercontent.com/assets/414554/10900867/36d959e4-8220-11e5-9ff6-bea8f8edbd48.png)
+![troubleshooting-chenweiming-hw7-1](https://cloud.githubusercontent.com/assets/5610299/11100453/594c2402-88ec-11e5-9ea1-b96db293c308.png)
